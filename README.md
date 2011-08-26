@@ -3,5 +3,5 @@ On a site I administer, I often receive posting information that has sentences i
 
 The snippet itself is: 
 
-#!/bin/bash
-pbpaste | /Users/parlarjb/bin/make_title.py
+    #!/bin/bash
+    pbpaste | /Users/parlarjb/bin/make_title.py
